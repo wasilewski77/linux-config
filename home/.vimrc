@@ -157,4 +157,5 @@ set expandtab
 nnoremap <C-L> :nohl<CR><C-L>
  
 "------------------------------------------------------------
+colorscheme ron
 
